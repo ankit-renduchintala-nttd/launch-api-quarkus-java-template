@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: launch-quarkus-hex-java-template
+  description: Quarkus open api, hexagonal & CQRS template
+  owner: NTT Launch
+spec:
+  type: service
+  lifecycle: production
+  owner: NTT Launch
